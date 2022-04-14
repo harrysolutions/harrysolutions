@@ -10,3 +10,5 @@
 #         }
 #       }
 #     }
+- name: HashiCorp - Setup Terraform
+  uses: hashicorp/setup-terraform@v1.4.0
