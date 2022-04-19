@@ -6,8 +6,8 @@ sudo apt update
 sudo apt install --yes openjdk-8-jre-headless unifi
 sudo apt clean
 sudo apt install --yes ca-certificates apt-transport-https
-sudo ufw enable
-sudo ufw allow 8443/tcp
-sudo ufw allow 3478/udp
+# sudo ufw enable
+# sudo ufw allow 8443/tcp
+# sudo ufw allow 3478/udp
 sudo service unifi restart
 sudo systemctl status --no-pager --full mongodb.service unifi.service
