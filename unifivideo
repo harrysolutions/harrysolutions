@@ -7,5 +7,5 @@ cleaned_args=$(echo $* | sed -e 's/--nohttpinterface//')
 sudo chmod +x mongod
 wget https://dl.ubnt.com/firmwares/ufv/v3.10.13/unifi-video.Ubuntu18.04_amd64.v3.10.13.deb
 dpkg -i unifi-video.Ubuntu18.04_amd64.v3.10.13.deb
-
+sudo apt-get install wget apt-transport-https gnupg
 # Host is https://localhost:7443
