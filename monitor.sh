@@ -1,6 +1,5 @@
 sudo apt upgrade
-sudo apt install cockpit
-apt-get install perl libnet-ssleay-perl openssl libauthen-pam-perl libpam-runtime libio-pty-perl apt-show-versions python unzip
+sudo apt install --yes cockpit perl libnet-ssleay-perl openssl libauthen-pam-perl libpam-runtime libio-pty-perl apt-show-versions python unzip
 deb https://download.webmin.com/download/repository sarge contrib
 cd /root
 wget https://download.webmin.com/jcameron-key.asc
