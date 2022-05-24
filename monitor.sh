@@ -6,4 +6,4 @@ wget https://download.webmin.com/jcameron-key.asc
 apt-key add jcameron-key.asc
 wget http://prdownloads.sourceforge.net/webadmin/webmin_1.991_all.deb
 sudo apt upgrade
-dpkg --install webmin_1.991_all.deb
+sudo dpkg --install webmin_1.991_all.deb
