@@ -10,4 +10,9 @@ harrysolutions/harrysolutions is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
+To run our commands
 
+git clone https://github.com/harrysolutions/harrysolutions.git
+cd harrysolutions
+bash virtual.sh
+bash monitor.sh
