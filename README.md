@@ -13,6 +13,12 @@ You can click the Preview link to take a look at your changes.
 To run our commands
 
 git clone https://github.com/harrysolutions/harrysolutions.git
+
+then
 cd harrysolutions
+
+
+and then in that folder, you can dir and run any files by the following.
+
 bash virtual.sh
 bash monitor.sh
