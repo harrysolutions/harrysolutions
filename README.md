@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harrysolutions
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ... k8s and rancher
-- 💞️ I’m looking to collaborate on ...ff
+- 💞️ I’m looking to collaborate on ...networks and cctv
 - 📫 How to reach me ... 441772931021
 
 To run these commands, you need ubuntu and git.
