@@ -2,6 +2,7 @@
 sudo apt install mysql-server
 
 sudo add-apt-repository ppa:iconnor/zoneminder-master
+sudo apt upgrade
 
 sudo apt update
 
